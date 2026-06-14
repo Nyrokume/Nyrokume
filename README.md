@@ -78,5 +78,5 @@
   <a href="https://nyrokume.github.io/nyrokume.dev/">
     <strong>nyrokume.dev</strong>
   </a>
-  — terminal-style portfolio · RU/EN · AI chat · contact form
+  — portfolio · RU/EN · 
 </p>
