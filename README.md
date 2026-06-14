@@ -15,16 +15,6 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nyrokume/Nyrokume/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nyrokume/Nyrokume/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nyrokume/Nyrokume/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyrokume&theme=dark&hide_border=true&background=000000&ring=FF6B2B&fire=FF8533&currStreakLabel=FF6B2B" alt="GitHub streak" />
-</p>
-
 ---
 
 <h3 align="center">What I do</h3>
@@ -72,19 +62,6 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AI-Prompt_Engineering-FF6B2B?style=flat-square" alt="AI and prompts" />
-</p>
-
----
-
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nyrokume&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B2B&icon_color=FF8533&text_color=c9d1d9" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyrokume&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B2B&text_color=c9d1d9" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyrokume&theme=react-dark&hide_border=true&bg_color=0d1117&color=FF8533&line=FF6B2B&point=FF6B2B" alt="Activity graph" />
 </p>
 
 ---
