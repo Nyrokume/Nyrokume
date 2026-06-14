@@ -17,16 +17,6 @@
 
 ---
 
-<h3 align="center">What I do</h3>
-
-<p align="center">
-  <code>whoami</code> → self-taught dev building sites, APIs, and AI-assisted tools<br/>
-  <code>stack</code> → Rust · TypeScript · React · Next.js · Python · Node · Docker<br/>
-  <code>focus</code> → terminal-style UIs · integrations · prompts &amp; agent skills
-</p>
-
----
-
 <h3 align="center">Connect</h3>
 
 <p align="center">
