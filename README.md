@@ -59,12 +59,6 @@
 <h3 align="center">Featured</h3>
 
 <p align="center">
-  <a href="https://github.com/Nyrokume/nyrokume.dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nyrokume&repo=nyrokume.dev&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B2B&text_color=c9d1d9" alt="nyrokume.dev" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://nyrokume.github.io/nyrokume.dev/">
     <strong>nyrokume.dev</strong>
   </a>
